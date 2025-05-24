@@ -147,7 +147,22 @@
     {
         "cuisine_id":8,
         "cuisine_img_url": "https://icook.tw/recipes/471168",
-        
+        "cuisine_name": "椒鹽雞軟骨",
+        "ingredients": [
+            {"ingredient": "雞軟骨", "amount": "300", "unit": "克"},
+            {"ingredient": "地瓜粉", "amount": "100", "unit": "克"},
+            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
+            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
+            {"ingredient": "青椒", "amount": "1", "unit": "條"},
+            {"ingredient": "紅椒", "amount": "1", "unit": "條"},
+            {"ingredient": "青蔥", "amount": "2", "unit": "根"},
+            {"ingredient": "鹽", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "白胡椒粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "五香粉", "amount": "1/2", "unit": "茶匙"},
+            {"ingredient": "米酒", "amount": "1", "unit": "大匙"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""}
+        ],
+        "cooking_instructions": "雞軟骨洗淨後用米酒、鹽醃製15分鐘。蒜頭切末，青紅椒切小段，青蔥切段備用。將醃好的雞軟骨沾蛋液後裹上地瓜粉。熱油至170度，放入雞軟骨炸至金黃酥脆撈起瀝油。另起鍋放少許油，爆香蒜末，加入青紅椒段炒香。倒入炸好的雞軟骨快速拌炒，撒入鹽、白胡椒粉、五香粉調味。最後加入蔥段拌勻即可起鍋。",
         "quantity": 2
     },
     {
